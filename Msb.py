@@ -98,7 +98,6 @@ def hasil(OK,cp):
 	if len(cp) != 0:
 	    print('\n\n  \x1b[1;97m Total OK : \x1b[1;97m %s  \x1b[1;97mSSB_OK.txt' % (H, P, str(len(ok))))
 	    print('  \x1b[1;97m Total CP :\x1b[1;97m   %s \x1b[1;97mSSB_CP.txt' % (H, P, str(len(cp))))
- 	    input("\x1b[1;97mPress enter to back SSB Menu ")
 	    sarfraz()
 
 def sarfraz():
